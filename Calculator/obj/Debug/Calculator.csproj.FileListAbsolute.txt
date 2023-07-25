@@ -1,0 +1,15 @@
+D:\lessons\TP_2.4\lab08\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\lessons\TP_2.4\lab08\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\lessons\TP_2.4\lab08\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\lessons\TP_2.4\lab08\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\lessons\TP_2.4\lab08\Calculator\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+D:\lessons\TP_2.4\lab08\Calculator\Calculator\Calculator\obj\Debug\App.g.cs
+D:\lessons\TP_2.4\lab08\Calculator\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+D:\lessons\TP_2.4\lab08\Calculator\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+D:\lessons\TP_2.4\lab08\Calculator\Calculator\Calculator\obj\Debug\MainWindow.baml
+D:\lessons\TP_2.4\lab08\Calculator\Calculator\Calculator\obj\Debug\Calculator.g.resources
+D:\lessons\TP_2.4\lab08\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\lessons\TP_2.4\lab08\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\lessons\TP_2.4\lab08\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\lessons\TP_2.4\lab08\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\lessons\TP_2.4\lab08\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
